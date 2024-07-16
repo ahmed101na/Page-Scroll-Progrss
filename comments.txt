@@ -1,0 +1,11 @@
+-- scrollHeight : Entire Content & Padding (Visible or Not)
+-- clientHight : Visible Content & Padding
+
+/-  document.documentElement  -/
+=>  HTML الدكيومنت ايلمينت هي خاصيه داخل كائن الدكيومنت مسؤله عن جزر الصفحه الخاص بال
+
+/- clientHeight -/
+=> الكلاينت هايد هو المسؤال عن معرفه العناصر وهي خاصيه دخل كائن الاوبجكت 
+
+/- console.dir(document) -/
+=> كونسل دوت دير بستخدم لعرض الخواص و الطرق الخاصيه بأي كائن 
